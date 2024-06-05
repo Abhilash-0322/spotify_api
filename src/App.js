@@ -11,7 +11,7 @@ import {
   Card,
 } from "react-bootstrap";
 import { useEffect, useState } from "react";
-import { color } from "three/examples/jsm/nodes/Nodes.js";
+// import { color } from "three/examples/jsm/nodes/Nodes.js";
 const CLIENT_ID='445f4d10566043b897cafc061a2609a6';
 const CLIENT_SECRET='54e1eba9297a45d59a04f01108b589e1';
 
